@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub followers](https://img.shields.io/github/followers/Suyog7130.svg?style=social&label=Followers)](https://github.com/Suyog7130?tab=followers)
 --->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=pacifico&color=7AF79A&size=30&duration=5500&width=600&lines=Heya!+This+is+Suyog!;I'm+an+aspiring+Astrophysicist!;I+love+Books!;I'm+an+avid+Traveller!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=gray&size=30&duration=5500&width=600&height=60&lines=Heya!+This+is+Suyog!;I'm+an+aspiring+Astrophysicist!;I+love+Books!;I'm+an+avid+Traveller!)](https://git.io/typing-svg)
 ---
 <h3> Here's some fun facts about me: </h3>
 
@@ -29,9 +29,13 @@ You can click the Preview link to take a look at your changes.
 
 ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
-![snake gif](https://github.com/Suyog7130/Suyog7130/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/Suyog7130/Suyog7130/blob/output/github-contribution-grid-snake.gif) -->
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!---
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+
 ### Some of my public repositories (not forks):
 
 - **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/AvidCoder101/AvidCoder101)**
@@ -80,12 +84,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Feel free to fork and 🌟 this repo!!
 
+Credit : [Suyog Garg](https://github.com/Suyog7130)
+Last Edited On: 01/01/2022
+
 --->
 
 ### Thank you for visiting my profile! :) 
 
 ------
-
-Credit : [Suyog Garg](https://github.com/Suyog7130)
-
-Last Edited On: 01/01/2022
