@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
 <!-- ![snake gif](https://github.com/Suyog7130/Suyog7130/blob/output/github-contribution-grid-snake.gif) -->
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Suyog7130/Suyog7130/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!---
 
