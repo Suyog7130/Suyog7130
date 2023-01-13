@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Here's my github README stats:
 
-![Suyog7130 GitHub stats](https://github-readme-stats.vercel.app/api?username=Suyog7130&show_icons=true&theme=transparent) 
+![Suyog7130 GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Suyog7130&show_icons=true&theme=transparent) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suyog7130&theme=transparent)](https://git.io/streak-stats)
 
 
