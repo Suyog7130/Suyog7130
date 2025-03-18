@@ -3,7 +3,7 @@ Suyog7130/Suyog7130 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=&size=30&duration=5500&width=600&height=60&lines=Heya!+This+is+Suyog!;I'm+an+aspiring+Astrophysicist!;I+love+Books!;I'm+an+avid+Traveller!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mistral&color=000000&size=30&duration=5500&width=600&height=60&lines=Heya!+This+is+Suyog!;I'm+an+aspiring+Astrophysicist!;I+love+Books!;I'm+an+avid+Traveller!)](https://git.io/typing-svg)
 ---
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suyog7130&theme=monokai)
